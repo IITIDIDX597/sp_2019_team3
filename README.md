@@ -23,4 +23,4 @@ http://bit.ly/2SkHBx7
 ### Box
 Weekly Assignments Documentation
 
-http://bit.ly/2VBLG23
+https://app.box.com/folder/68307789539
