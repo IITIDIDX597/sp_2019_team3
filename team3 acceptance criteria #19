@@ -1,1 +1,4 @@
 
+Given I'm a registered rescurer in the GHRN and i'm on the way to service an driver who requested service
+When sometihing unexpected happens interrupting my trip to the driver and I tap the "send text to driver" or "call driver"
+Then the system calls the driver for me so that i can speak to them about why i may be delayed or allows me to text them about why i may be delayed
