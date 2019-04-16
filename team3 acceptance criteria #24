@@ -1,1 +1,14 @@
 
+Given that I'm a registerd rescurer for GHRN(Good Hands Rescue Network) and a request comes in that I am avaiable and able to service on my way to another destination.
+When I choose to accept the request.
+Then the system confirms that I've chosen to accept the request and sends the driver an alrt that I am on my way.
+
+
+Given that I'm a registerd rescurer for GHRN(Good Hands Rescue Network) and have accepted a request from a driver
+When I click on the drivers profile
+Then the system reveals the drivers car make and model, license plate, and assistance needs.
+
+Version 2
+Given that a rescuer has accepted a request from a driver
+When they click on the drivers profile
+Then the system reveals the drivers car make and model, license plate, and assistance needs.
