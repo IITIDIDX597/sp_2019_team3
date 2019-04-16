@@ -1,1 +1,3 @@
-
+Given that I am a rescuer who is trying to stick to the schedule that I have created for myself
+When I fill in the hours and time slots that I am willing to work on rescue jobs 
+The system only matches me to jobs that I can complete within the time that I have provided, with the option of extending my hours on the go if I wish to.
