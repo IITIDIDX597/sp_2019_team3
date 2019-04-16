@@ -1,3 +1,3 @@
-I am a driver who is trying to create a request for help 
-I use the list of pre-inputed problems to check off the ones that I am facing with my vehicle and also describe my issue in my own words, after which I submit my request
-Then the system finds the right rescuer to meet my needs.
+Given that I am a driver
+When I am in need of an assistance I need to be able to provide the the details about issue, my car information and my exact location
+Then Good Hands Rescue Network can send the best suited rescuer to assist me.
