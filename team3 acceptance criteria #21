@@ -1,4 +1,4 @@
-I am a driver who is trying to create a request for help 
-I use the list of pre-inputed problems to check off the ones that I am facing with my vehicle and also describe my issue in my own words, after which I submit my request
-Then the system finds the right rescuer to meet my needs.
+Given that I am a driver who is trying to create a request for help 
+When I use the list of pre-inputed problems to check off the ones that I am facing with my vehicle and also describe my issue in my own words, after which I submit my request
+So that the system finds the right rescuer to meet my needs.
 
