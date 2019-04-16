@@ -1,1 +1,3 @@
-
+Given that I'm a rescuer from Good Hands Rescue Network
+When I receive a rescue request I can see the location of the car, the model of the car and the tools required to complete the job
+Then I can decide if I can accept it
