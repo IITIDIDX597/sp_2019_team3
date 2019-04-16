@@ -1,3 +1,3 @@
-I am a rescuer and I am on my way to assist a driver in need
-I can enter the location at which the driver is currently waiting
-The system shows me the route that will require least amount of time to reach the driver.
+Given that I am a rescuer from GHRN
+When I am on my way to a rescue I want to be in the quickest route
+Then I can make more rescues
