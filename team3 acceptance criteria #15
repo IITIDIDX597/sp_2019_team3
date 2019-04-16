@@ -1,4 +1,7 @@
-I am a driver who is having issues with my vehicle
-I request help on the app and submit it
-The app tells me how much time it will take for my issue to be resolved.
+As a driver
+I want to be assisted by a GHRN rescuer within 15 minutes
+So that my roadside problem can be solved, or make alternative plans
 
+Given that I am a driver 
+When I am in need of assistance I want to be assisted within 15 minutes and be notified if there will be any delays
+Then I know what to expect
