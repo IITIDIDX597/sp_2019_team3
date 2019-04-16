@@ -2,3 +2,8 @@
 Given that im a registered rescurer in the GHRN and that I've worked at least a week of assisting drivers
 When I select to review my "current weekly report"
 Then the system pulls up my report and lists details about how many drivers i have assisted, how many hours i am working, how my ratings are all in a selected seven days range. The default is the most recent 7 day period.
+
+Verson 2
+Given that im a registered rescurer that has worked at least a week of assisting drivers
+When I select to review my "current weekly report" which is the most recent 7 day period
+Then my report details how many drivers assists, how many hours worked, and my ratings
