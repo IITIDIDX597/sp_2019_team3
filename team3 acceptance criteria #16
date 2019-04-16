@@ -1,3 +1,3 @@
-I am a gig worker and I am trying to sign up on this platform
-I can fill out the skills and tools I have and submit them
-The system shows me what I can do with my exsiting skills as well as the skills that I am missing for other types of jobs.
+Given that I'm a gig worker looking for income
+When I am looking for a job at GHRN I want to receive a list of required skills to be accepted in the platform as a checklist
+Then I can be prepared in advance
