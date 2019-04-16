@@ -1,3 +1,3 @@
-I am a driver who has had a change in situation
-I open the app and find the rescuer's phone number
-I can now talk to the driver directly and create a new plan with him
+Given that I'm a rescuer from Good Hands Rescue Network
+When I am going to take a longer time than the ETA predicted from GHRN, I will call the driver using GHRN App
+Then the expectations will be set and I can know in advance if the driver wants to cancel the service.
