@@ -1,3 +1,8 @@
 Given that I am a rescuer and I am on my way to assist a driver in need
 When I enter the location at which the driver is currently waiting
 The system shows me the route that will require least amount of time to reach the driver.
+
+Version 2
+Given that I'm a registerd rescurer for GHRN(Good Hands Rescue Network) and I am on the road driving to someone who has requested assistance
+When I enter the location at which the driver is currently waiting
+Then the system shows me the route that will require least amount of time to reach the driver based on current traffic congestion and/or construction in the area.
