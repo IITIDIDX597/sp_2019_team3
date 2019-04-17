@@ -1,4 +1,8 @@
-
 Given that I am a rescuer who is preparing to leave to assist a driver in need
 When I can see the problem that the driver is facing with his/her vehicle on my phone and ask specifc questions about it
 So that I make choices about the tools I will require.
+
+Version 2
+Given that I am a rescuer who is preparing to leave to assist a driver in need
+When I can see the problem that the driver is facing with his/her vehicle on my phone
+Then the system shows me the right tools to perform the job.
