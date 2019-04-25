@@ -1,1 +1,3 @@
-
+Given that I'm a registered rescurer in GHRN and I recieve a request for assistance and it's approaching my set schedule limits
+When I choose to cancel the incoming request
+Then the system confirms my choice to cancel and then re-routes the drivers request to another rescurer in the area to service them.
